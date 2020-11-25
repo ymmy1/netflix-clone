@@ -2,7 +2,7 @@
 Visit site:
 https://netflix-ymmy-clone.web.app/
 
-Adaptive
+Adaptive & Responsive
 ![](https://i.imgur.com/UNv3Pcd.png)
 ![](https://i.imgur.com/zbv6ksZ.png)
 ![](https://i.imgur.com/yb5lgWg.png)
