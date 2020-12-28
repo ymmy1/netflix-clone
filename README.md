@@ -8,5 +8,5 @@ Adaptive & Responsive design:
 ![](https://i.imgur.com/zbv6ksZ.png)
 3): Video:
 ![](https://i.imgur.com/yb5lgWg.png)
-4)::
+4):
 ![](https://i.imgur.com/x2l0K9j.png)
