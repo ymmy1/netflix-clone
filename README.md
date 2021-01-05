@@ -2,7 +2,7 @@
 Visit site:
 https://netflix-ymmy-clone.web.app/
 
-Adaptive & Responsive design:
+## Adaptive & Responsive design:
 ![](https://i.imgur.com/UNv3Pcd.png)
 2) Movie API:
 ![](https://i.imgur.com/zbv6ksZ.png)
