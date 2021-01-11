@@ -6,7 +6,7 @@ https://netflix-ymmy-clone.web.app/
 ![](https://i.imgur.com/UNv3Pcd.png)
 ## Movie API:
 ![](https://i.imgur.com/zbv6ksZ.png)
-3) Video:
+## Video:
 ![](https://i.imgur.com/yb5lgWg.png)
 4):
 ![](https://i.imgur.com/x2l0K9j.png)
